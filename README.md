@@ -15,4 +15,4 @@ Este projeto vem por meio:
 ### Git:
 - Utilizei os comandos basicos do git já apresentados ao criar um novo repositório
 
-Este Projeto foi uma das práticas que irão me levar a ser um Dev de alto nível sendo apenas um dos projetos introdutórios a esse objetivo.
+Este Projeto foi uma das práticas que irão me levar a ser um Desenvolvedor de alto nível sendo apenas um dos projetos introdutórios a esse objetivo.
