@@ -1,0 +1,14 @@
+*{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+footer{
+    text-align: end;
+}
+.camp{
+    opacity: 0.4;
+}
+a{
+    color:cadetblue;
+}
